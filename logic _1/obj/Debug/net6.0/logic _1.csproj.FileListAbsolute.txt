@@ -1,0 +1,12 @@
+C:\Users\bigsh\OneDrive\Escritorio\training\logic _1\bin\Debug\net6.0\logic _1.deps.json
+C:\Users\bigsh\OneDrive\Escritorio\training\logic _1\bin\Debug\net6.0\logic _1.dll
+C:\Users\bigsh\OneDrive\Escritorio\training\logic _1\bin\Debug\net6.0\logic _1.pdb
+C:\Users\bigsh\OneDrive\Escritorio\training\logic _1\obj\Debug\net6.0\logic _1.csproj.AssemblyReference.cache
+C:\Users\bigsh\OneDrive\Escritorio\training\logic _1\obj\Debug\net6.0\logic _1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bigsh\OneDrive\Escritorio\training\logic _1\obj\Debug\net6.0\logic _1.AssemblyInfoInputs.cache
+C:\Users\bigsh\OneDrive\Escritorio\training\logic _1\obj\Debug\net6.0\logic _1.AssemblyInfo.cs
+C:\Users\bigsh\OneDrive\Escritorio\training\logic _1\obj\Debug\net6.0\logic _1.csproj.CoreCompileInputs.cache
+C:\Users\bigsh\OneDrive\Escritorio\training\logic _1\obj\Debug\net6.0\logic _1.dll
+C:\Users\bigsh\OneDrive\Escritorio\training\logic _1\obj\Debug\net6.0\refint\logic _1.dll
+C:\Users\bigsh\OneDrive\Escritorio\training\logic _1\obj\Debug\net6.0\logic _1.pdb
+C:\Users\bigsh\OneDrive\Escritorio\training\logic _1\obj\Debug\net6.0\ref\logic _1.dll

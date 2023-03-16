@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ksak8Jo9NvdLj0yAawM8+stwhV76tyqrMykGtLIDTFY5+9QuQJf3cTGVJcYCnPg7TtVnu1yfoPDNXlMPpkQ4qA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bigsh\\OneDrive\\Escritorio\\training\\daytrain_1\\daytrain_1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bigsh\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\bigsh\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\bigsh\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\bigsh\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.14\\microsoft.netcore.app.host.win-x64.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

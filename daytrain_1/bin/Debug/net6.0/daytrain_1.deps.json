@@ -1,0 +1,33 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "daytrain_1/1.0.0": {
+        "runtime": {
+          "daytrain_1.dll": {}
+        }
+      },
+      "logic _1/1.0.0": {
+        "runtime": {
+          "logic _1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "daytrain_1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "logic _1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
