@@ -26,3 +26,8 @@ jobs:
       run: dotnet build --no-restore daytrain_1/daytrain_1.sln
     - name: Test
       run: dotnet test --no-build --verbosity normal training_1/training_1.csproj
+    - name: SonarCloud Scan
+      uses: SonarSource/sonarcloud-github-action@v1.9
+      with:
+        projectBaseDir: daytrain_1/daytrain_1.sln
+        
