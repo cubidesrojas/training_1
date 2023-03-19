@@ -28,10 +28,11 @@ jobs:
       run: dotnet test --no-build --verbosity normal training_1/training_1.csproj
     - name: SonarCloud Scan
       uses: SonarSource/sonarcloud-github-action@v1.9
+      with:
+        projectBaseDir: daytrain_1/daytrain_1.sln
       env:
         SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      with:
-        projectBaseDir: daytrain_1/daytrain_1.sln
+      
      
         
