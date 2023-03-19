@@ -13,6 +13,7 @@ jobs:
   build:
 
     runs-on: ubuntu-latest
+    environment: test
 
     steps:
     - uses: actions/checkout@v3
@@ -26,3 +27,11 @@ jobs:
       run: dotnet build --no-restore daytrain_1/daytrain_1.sln
     - name: Test
       run: dotnet test --no-build --verbosity normal training_1/training_1.csproj
+    - name: SonarCloud Scan
+      uses: SonarSource/sonarcloud-github-action@v1.9
+      env:
+        SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      
+     
+        
