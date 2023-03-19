@@ -29,7 +29,7 @@ jobs:
     - name: SonarCloud Scan
       uses: SonarSource/sonarcloud-github-action@v1.9
       env:
-        SONAR_TOKEN: ${{ test.SONAR_TOKEN }}
+        SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
       with:
         projectBaseDir: daytrain_1/daytrain_1.sln
      
