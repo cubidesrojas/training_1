@@ -30,4 +30,6 @@ jobs:
       uses: SonarSource/sonarcloud-github-action@v1.9
       with:
         projectBaseDir: daytrain_1/daytrain_1.sln
+      env:
+        SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
         
