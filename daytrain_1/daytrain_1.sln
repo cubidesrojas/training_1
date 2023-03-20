@@ -3,11 +3,16 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "daytrain_1", "daytrain_1.csproj", "{95169EE4-7021-456B-A3A7-01404E8E447B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "daytrain_1", "daytrain_1.csproj", "{95169EE4-7021-456B-A3A7-01404E8E447B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "logic _1", "..\logic _1\logic _1.csproj", "{A42643A9-8987-4A30-9139-FDF5B4E72031}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "logic _1", "..\logic _1\logic _1.csproj", "{A42643A9-8987-4A30-9139-FDF5B4E72031}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "training_1", "..\training_1\training_1.csproj", "{D8A92547-650B-49DE-8B07-48EBCC67DABD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "training_1", "..\training_1\training_1.csproj", "{D8A92547-650B-49DE-8B07-48EBCC67DABD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{801509A5-4724-4DF8-9C24-2A769A071C9A}"
+	ProjectSection(SolutionItems) = preProject
+		sonar-project.properties = sonar-project.properties
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
