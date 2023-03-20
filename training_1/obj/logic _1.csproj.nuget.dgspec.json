@@ -8,10 +8,10 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "C:\\Users\\bigsh\\OneDrive\\Escritorio\\training\\logic _1\\logic _1.csproj",
-        "projectName": "logic _1",
+        "projectName": "training_1",
         "projectPath": "C:\\Users\\bigsh\\OneDrive\\Escritorio\\training\\logic _1\\logic _1.csproj",
         "packagesPath": "C:\\Users\\bigsh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bigsh\\OneDrive\\Escritorio\\training\\logic _1\\obj\\",
+        "outputPath": "C:\\Users\\bigsh\\OneDrive\\Escritorio\\training\\training_1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bigsh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,7 +27,11 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\bigsh\\OneDrive\\Escritorio\\training\\logic _1\\logic _1.csproj": {
+                "projectPath": "C:\\Users\\bigsh\\OneDrive\\Escritorio\\training\\logic _1\\logic _1.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

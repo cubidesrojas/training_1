@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "glSfNiTsBIG0vb/n1iTZjzTsd4iahbFPMTjhTOtJ6gsnA+xUY2RvDT1qt81ArnRNgecdzvaamLjAHJC3X7hz4g==",
+  "dgSpecHash": "+VU3TSLj0nSCiH2ERLSosPHQC9RxBazHukZxzJ9oPxHA9nTT2wadhtXqDxD9C7xOSdccNa/Zb3U63O5e3EqVZA==",
   "success": true,
   "projectFilePath": "C:\\Users\\bigsh\\OneDrive\\Escritorio\\training\\training_1\\training_1.csproj",
   "expectedPackageFiles": [
@@ -99,9 +99,9 @@
     "C:\\Users\\bigsh\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\bigsh\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\bigsh\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\bigsh\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
-    "C:\\Users\\bigsh\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
-    "C:\\Users\\bigsh\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512"
+    "C:\\Users\\bigsh\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\bigsh\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\bigsh\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512"
   ],
   "logs": []
 }

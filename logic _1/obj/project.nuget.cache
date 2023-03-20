@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "6PmNvTSstwli9icPcSSwXv4ZiNpBocBgZYHy1rdBjmhpQN7EVL7qqeuNWgPaUGlFm/kZ9WW43b5ewNRWgwdtPw==",
+  "dgSpecHash": "zgO3HGBT0NFmcIu1n/49OWDYVKKR05a8sLyYLITYbaH6hGazqLsJnTKK2qJPfYweu3lvofpGlToquDl2SQYtwA==",
   "success": true,
   "projectFilePath": "C:\\Users\\bigsh\\OneDrive\\Escritorio\\training\\logic _1\\logic _1.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\bigsh\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
-    "C:\\Users\\bigsh\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
-    "C:\\Users\\bigsh\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512"
+    "C:\\Users\\bigsh\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\bigsh\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\bigsh\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512"
   ],
   "logs": []
 }
